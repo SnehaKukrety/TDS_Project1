@@ -12,7 +12,7 @@ This project involves analyzing GitHub users in Moscow with over 50 followers, a
 - `users.csv`: Contains details about each user.
 - `repositories.csv`: Contains details about each repository.
 - `scrap.py`: Contains code used for scrapping of data.
-- `analysis_code.py`: Code used for data transformation and analysis.
+- `analysis_code.ipynb`: Code used for data transformation and analysis.
   
 ## Data Transformations
 
