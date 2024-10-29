@@ -1,5 +1,5 @@
 - I used the GitHub API to scrape users in Moscow with over 50 followers and analyzed their repositories.
-- One surprising finding was that the majority of popular repositories were in Python, followed closely by JavaScript.
+- One surprising finding was that the majority of popular repositories were in JavaScript, followed closely by Python.
 - Developers in Moscow can benefit from collaborating more on open-source projects to increase visibility and followers.
 
 ## Project Overview
@@ -11,8 +11,9 @@ This project involves analyzing GitHub users in Moscow with over 50 followers, a
 
 - `users.csv`: Contains details about each user.
 - `repositories.csv`: Contains details about each repository.
+- `scrap.py`: Contains code used for scrapping of data.
 - `analysis_code.py`: Code used for data transformation and analysis.
-
+  
 ## Data Transformations
 
 ### Users Data (`users.csv`)
